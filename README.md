@@ -1,4 +1,5 @@
 <h1 style="text-align: center;">CHURN PREDICTION ANALYSIS FOR BLUE-VALLEY BANK</h1>
+
 <img src='bank photo.jpg'>
 <h3 style="font-size:36px;">Overview</h3>
 
@@ -27,3 +28,13 @@ Blue-Valley Bank has faced rising customer churn over the past five years,result
 <li>Which predictive model between logistic and decision tree will most effectively identify clients likely to churn in terms of performance?</li>
 <li>How can clients be segmented into high,moderate and low churn risk categories based on their predicated probability of churning?</li>
 </ul>
+<h3 style="font-size:36px;">DATA UNDERSTANDING</h3>
+ We have 28382 entries with 21 columns 6 integer columns 3 objects and 11 float columns
+ <h3 style="font-size:36px;">DATA PREPARATION</h3>
+ There was presence of outliers and we removed,missing values were dropped and changed date to its right format
+<img src='outliers.jpg'>
+<h4 style="font-size:36px;">EXPLORATIVE DATA ANALYSIS</h4>
+we observed skeweness,imbalance and did feature engineering too
+<img src='imbalance.jpg'>
+<img src='skewness.jpg'>
+
