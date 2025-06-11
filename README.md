@@ -16,8 +16,10 @@ in objective 1::Which features most influence whether a client will churn or not
 <ol>
     for logistic regression this was the most influencing features are 
     <img src='logistic.png',width="1000",height="700">
+    
     for decision trees regression we have the most influencing features and they are:
     <img src='decision_trees.png'width='1000',height='700'>
+    
     based on the two the logistic regression features are highly influenced by one hot encoding making occupation and gender to be the most coefficient since they were not scaled since it was categorical column
     while decision trees since it was affected by one hot encoding and also checks for non linear relationship current balance took the lead
   
