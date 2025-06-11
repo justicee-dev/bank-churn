@@ -35,7 +35,7 @@ Precision:43%
 based on the two models decision trees performs way better than logistic regression though we need some prunning due to overfitting
     and our model improved
 <b> in objective 3 we segmented the clients based on high low and medium risk features and this helped in customized retention strategy
-    <img src='segmentt.jpg'>
+    <img src="segment.png" width="1000" height="700">
  in conclusion the project
  Give an early warning system for customer churn will help in early planning 
 Clear understanding of customers leaving
